@@ -1,0 +1,16 @@
+{
+    "pages": [
+        {
+            "src": "./components/HomePage.tsx",
+            "title": "Contact"
+        },
+        {
+            "src": "./components/HomePage.tsx",
+            "title": "Home"
+        },
+        {
+            "src": "./components/ResumePage.tsx",
+            "title": "Resume"
+        }
+    ]
+}
